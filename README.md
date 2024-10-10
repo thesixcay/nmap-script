@@ -4,7 +4,7 @@ Script para automatizar nmap
 
 para instalar
 
-
+git clone https://github.com/thesixcay/nmap-script.git
 
 para usar 
 
